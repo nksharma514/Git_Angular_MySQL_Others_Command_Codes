@@ -1,0 +1,18 @@
+How to Update Downloaded Angular Project form Git Commands
+
+Step 1
+Download Project from GitHub by git command ( git clone https://github.com/nksharma514/angular_registration_ui)
+
+Step 2
+Open Project in VS Code (code .)
+
+Step 3
+Open Turninal and Write Code to Install npm first by command
+-> npm install
+
+Step 4
+-> npm i
+
+Step 5
+ng serve
+

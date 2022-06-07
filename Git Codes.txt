@@ -1,0 +1,41 @@
+1. Uninstall global: npm uninstall -g angular-cli
+
+2. Reset Cache: npm cache clean or npm cache verify (for npm version > 5)
+
+3. Install latest: npm install -g @angular/cli@latest
+
+Download GIT Project using url
+4. git clone https://github.com/nksharma514/angular_registration_ui
+
+
+
+
+Uploading file/folder in the git account or making a new repository in git hub account
+steps
+1. go to git hub account and
+2. click on plus sign in the right upper side and click on new repository or click on repositories tab and click on new 
+3. now goto project file on open it
+4. click any where(not at any file) in the project and open with git bash here
+5. now git bash will open and put below command one by one to add progect to your git repository
+ 
+write command in git bash
+1. git init
+2. git add .
+3. git commit -m "comment somthing about your project"
+4. git remote add origin https://github.com/nksharma514/spring_boot_file_upload_in_database.git
+5. git push -u origin master
+if above command is not working or giving some error then type
+5. git push -u origin master --force
+
+
+
+
+
+
+
+
+
+
+
+
+
