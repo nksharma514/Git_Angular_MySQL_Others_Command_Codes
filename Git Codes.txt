@@ -14,9 +14,9 @@ Uploading file/folder in the git account or making a new repository in git hub a
 steps
 1. go to git hub account and
 2. click on plus sign in the right upper side and click on new repository or click on repositories tab and click on new 
-3. now goto project file on open it
-4. click any where(not at any file) in the project and open with git bash here
-5. now git bash will open and put below command one by one to add progect to your git repository
+3. now goto the project file and open the project folder 
+4. in project folder(Local Drive), right click any where(not at any file) in the project folder and open with git bash here
+5. now git bash will open and put below command one by one to add project to your git repository
  
 write command in git bash
 1. git init
@@ -28,7 +28,14 @@ if above command is not working or giving some error then type
 5. git push -u origin master --force
 
 
+Download Git Project to your Local Drive using url
+steps
+1. Create a folder on your Local Drive and
+2. right click and open with git bash here
+3. goto the git website and copy the link of project that you want to clone or download
+4. past the copied link after git clone command(example shown below)
 
+5. git clone https://github.com/nksharma514/angular_registration_ui
 
 
 
